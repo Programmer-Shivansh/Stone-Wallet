@@ -1,3 +1,8 @@
+#To Start
+### npm install
+### npm run build 
+### Then unload the dist folder  
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
